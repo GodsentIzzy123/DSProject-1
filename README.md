@@ -1,2 +1,2 @@
 # DSProject-1
-Data Science Project on Github
+Data Science Projects on Github
